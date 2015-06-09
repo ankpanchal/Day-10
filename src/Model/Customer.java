@@ -1,7 +1,7 @@
 package Model;
 
 
-public class Customer 
+public class Customer //Changes for GIT Repository//
 {
 	public String name;
 	public String address;
